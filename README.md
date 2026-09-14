@@ -23,9 +23,10 @@ Screenshot of the commits for utils.py and utils_tests.py:
 
 ![Activity 4 commits](screenshots/activity4.png)
 
-<!-- 
+
 ## Activity 5: Git Rebase
 Screenshots of the rebase commands and their output:
 
-![Activity 5 rebase command 1](screenshots/activity5_rebase1.png)
-![Activity 5 rebase command 2](screenshots/activity5_rebase2.png) -->
+![Activity 5 rebase command 1](screenshots/activity5_1.png)
+![Activity 5 rebase command 2](screenshots/activity5_2.png)
+![Activity 5 rebase command 3](screenshots/activity5_3.png)
