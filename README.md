@@ -17,12 +17,13 @@ Screenshot of the merge command output on the main branch:
 Screenshot of the successful merge after resolving the conflict:
 
 ![Activity 3 conflict resolved](screenshots/activity3.png)
-<!-- 
+
 ## Activity 4: Unit Tests
 Screenshot of the commits for utils.py and utils_tests.py:
 
-![Activity 4 commits](screenshots/activity4_commits.png)
+![Activity 4 commits](screenshots/activity4.png)
 
+<!-- 
 ## Activity 5: Git Rebase
 Screenshots of the rebase commands and their output:
 
